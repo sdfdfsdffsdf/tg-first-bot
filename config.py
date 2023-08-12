@@ -1,3 +1,3 @@
-api_id = 14428023
-api_hash = 'ff2ca1e060eacbfa40eb9803c49cb542'
+api_id = 22980743
+api_hash = '258915922a8ae0eb735ec21d865c0081'
 key = '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'
